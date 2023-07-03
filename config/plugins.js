@@ -2,6 +2,9 @@ module.exports = ({ env }) => ({
   seo: {
     enabled: true,
   },
+  "strapi-chatgpt": {
+    enabled: true,
+  },
   "image-optimizer": {
     enabled: true,
     config: {
